@@ -33,8 +33,8 @@ Passionate about designing intelligent, scalable systems that connect **software
 
 ---
 ## 🌱 Currently Learning
-- Advanced **Machine Learning** & **AI Applications**  
-- **Neural Signal Analysis**  
+- Advanced **Machine Learning** & **AI Applications**
+- **AI Agents**
 - **German Language (A1 🇩🇪)**  
 
 ---
