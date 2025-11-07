@@ -34,8 +34,7 @@ Passionate about designing intelligent, scalable systems that connect **software
 ---
 ## 🌱 Currently Learning
 - Advanced **Machine Learning** & **AI Applications**
-- **AI Agents**
-- **German Language (A1 🇩🇪)**  
+- **AI Agents** 
 
 ---
 
