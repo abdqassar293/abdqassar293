@@ -68,8 +68,8 @@ Passionate about designing intelligent, scalable systems that connect **software
 ## 📫 Let's Connect
 <p align="left">
   <a href="mailto:abd.kassar10@outlook.com"><img src="https://img.shields.io/badge/Email-abd.kassar10@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/abedallah-alkassar"><img src="https://img.shields.io/badge/LinkedIn-Abedallah%20Alkassar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ABEDALLAH-ALKASSAR"><img src="https://img.shields.io/badge/GitHub-ABEDALLAH--ALKASSAR-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/abedallah293"><img src="https://img.shields.io/badge/LinkedIn-Abedallah%20Alkassar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/abdqassar293"><img src="https://img.shields.io/badge/GitHub-ABEDALLAH--ALKASSAR-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
