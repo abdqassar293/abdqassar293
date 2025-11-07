@@ -32,32 +32,6 @@ Passionate about designing intelligent, scalable systems that connect **software
 | **Concepts** | Software Architecture 🧩, REST APIs, Debugging & Optimization |
 
 ---
-
-## 💼 Experience
-
-### 🏢 Application Support — *Wafa Telecommunication, Damascus*  
-📆 **Jul 2024 – Dec 2024**  
-- Analyzed complex business requirements and translated them into technical solutions.  
-- Authored detailed **RFPs** including functional and non-functional specs.  
-- Recommended modern technologies to improve operational efficiency.
-
-### 💻 Software Engineering Intern — *FMS Tech, Damascus*  
-📆 **Aug 2022 – Oct 2022**  
-- Developed an **Android Fleet Management App** using ONVIF & SOAP protocols.  
-- Integrated **live video streaming** and camera control for remote monitoring.  
-
----
-
-## 🎓 Education
-
-🎓 **M.Sc. Artificial Intelligence** — *Brandenburgische Technische Universität Cottbus, Germany*  
-📅 Expected: April 2025  
-
-🎓 **B.Sc. Informatics Engineering (Software Engineering)** — *Arab International University (AIU), Damascus*  
-📅 2018 – 2024  
-
----
-
 ## 🌱 Currently Learning
 - Advanced **Machine Learning** & **AI Applications**  
 - **Neural Signal Analysis**  
