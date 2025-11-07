@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="mailto:abd.kassar10@outlook.com"><img src="https://img.shields.io/badge/Email-abd.kassar10@outlook.com-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/abedallah-alkassar"><img src="https://img.shields.io/badge/LinkedIn-Abedallah%20Alkassar-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ABEDALLAH-ALKASSAR"><img src="https://img.shields.io/badge/GitHub-ABEDALLAH--ALKASSAR-black?logo=github" /></a>
+  <a href="https://linkedin.com/inabedallah293"><img src="https://img.shields.io/badge/LinkedIn-Abedallah%20Alkassar-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/abdqassar293"><img src="https://img.shields.io/badge/GitHub-ABEDALLAH--ALKASSAR-black?logo=github" /></a>
   <a href="tel:+4917641695008"><img src="https://img.shields.io/badge/Phone-%2B49%20176%2041695008-green?logo=whatsapp&logoColor=white" /></a>
 </p>
 
