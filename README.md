@@ -40,7 +40,7 @@ Passionate about designing intelligent, scalable systems that connect **software
   <a href="mailto:abd.kassar10@outlook.com"><img src="https://img.shields.io/badge/Email-abd.kassar10@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/abedallah293"><img src="https://img.shields.io/badge/LinkedIn-Abedallah%20Alkassar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/abdqassar293"><img src="https://img.shields.io/badge/GitHub-ABEDALLAH--ALKASSAR-black?style=for-the-badge&logo=github" /></a>
-  <a href="tel:+4917641695008"><img src="https://img.shields.io/badge/Phone-%2B49%20176%2041695008-green?logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/4917641695008"><img src="https://img.shields.io/badge/WhatsApp-%2B49%20176%2041695008-green?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
